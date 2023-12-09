@@ -7,7 +7,7 @@ import Trash from "@/components/icons/Trash";
 import AddressInputs from "@/components/layout/AddressInputs";
 import SectionHeaders from "@/components/layout/SectionHeaders";
 import CartProduct from "@/components/menu/CartProduct";
-import Image from "next/image";
+
 import React, { useContext, useEffect, useState } from "react";
 import toast from "react-hot-toast";
 
